@@ -31,7 +31,7 @@
 
 ---
 
-<img align="left" alt="Yuri Github Stats" src="https://github-readme-stats.vercel.app/api?username=diasYuri&show_icons=true&hide_border=true&count_private=true&hide=prs,contribs&theme=radical" />
+<img align="left" width="400px" alt="Yuri Github Stats" src="https://github-readme-stats.vercel.app/api?username=diasYuri&show_icons=true&hide_border=true&count_private=true&hide=prs,contribs&theme=radical" />
 
 <img align="left" alt="Yuri Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diasYuri&layout=compact&theme=radical" />
 
