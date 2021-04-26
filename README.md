@@ -12,11 +12,11 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg" />
-
-<img align="left" alt="javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg" />
+<img align="left" alt="typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
 
 <img align="left" alt="Nodejs" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
+
+<img align="left" alt="ReactJs" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png" />
 
 <img align="left" alt="Golang" width="26px" src="https://i.pinimg.com/originals/ca/1f/74/ca1f746d6f232f87fca4e4d94ef6f3ab.png" />
 
