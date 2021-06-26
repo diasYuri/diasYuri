@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/diasYuri/diasYuri/blob/main/img/user.png?raw=true" width="300"/>
 
-<h1 align="center">Yuri Dias [Backend Development] 👋</h1>
+<h1 align="center">Yuri Dias [Backend Development]</h1>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/yuri-dias/">
@@ -24,15 +24,15 @@
 
 <p align="left">
   <!-- TYPESCRIPT Icon -->
-  <img align="left" alt="typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/>&nbsp;
+  <img align="left" alt="typescript" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/>&nbsp;
   <!-- C# Icon -->
-  <img align="left" alt="typescript" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>&nbsp;
+  <img align="left" alt="c-sharp" width="48px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>&nbsp;
   <!-- C++ Icon -->
-  <img align="left" alt="typescript" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>&nbsp;
+  <img align="left" alt="cplusplus" width="48px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>&nbsp;
   <!-- JAVA Icon -->
-  <img align="left" alt="typescript" width="26px" src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png"/>&nbsp;
+  <img align="left" alt="java" width="48px" src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png"/>&nbsp;
   <!-- GO Icon -->
-  <img align="left" alt="typescript" width="26px" src="https://user-images.githubusercontent.com/727262/40395108-6bcc327a-5e1e-11e8-9f76-3917983b8563.png"/>&nbsp;
+  <img align="left" alt="golang" width="48px" src="https://user-images.githubusercontent.com/727262/40395108-6bcc327a-5e1e-11e8-9f76-3917983b8563.png"/>&nbsp;
   
 </p>
 
@@ -40,15 +40,15 @@
 
 <p align="left">
   <!-- Node Icon -->
-  <img width="26px" src="https://image.pngaaa.com/668/4547668-small.png">&nbsp;
+  <img width="48px" src="https://image.pngaaa.com/668/4547668-small.png">&nbsp;
   <!-- ASP.NET CORE Icon -->
-  <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png">&nbsp;
+  <img width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png">&nbsp;
   <!-- Spring Boot Icon -->
-  <img width="26px" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png">&nbsp;
+  <img width="48px" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png">&nbsp;
   <!-- Docker Icon -->
-  <img width="26px" height='40' src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png">&nbsp;
-  <!-- Django Icon -->
-  <img width="26px" height='50' src="https://img1.gratispng.com/20180824/gwx/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546bc0a4c5.2332101615351368757891.jpg">&nbsp;
+  <img width="48px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png">&nbsp;
+  <!-- Git Icon -->
+  <img width="48px" src="https://img1.gratispng.com/20180824/gwx/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546bc0a4c5.2332101615351368757891.jpg">&nbsp;
   
 </p>
 
