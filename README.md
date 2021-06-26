@@ -40,15 +40,15 @@
 
 <p align="left">
   <!-- Node Icon -->
-  <img src="https://image.pngaaa.com/668/4547668-small.png">&nbsp;
+  <img width="26px" src="https://image.pngaaa.com/668/4547668-small.png">&nbsp;
   <!-- ASP.NET CORE Icon -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png">&nbsp;
+  <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png">&nbsp;
   <!-- Spring Boot Icon -->
-  <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png">&nbsp;
+  <img width="26px" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png">&nbsp;
   <!-- Docker Icon -->
-  <img height='40' src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png">&nbsp;
+  <img width="26px" height='40' src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png">&nbsp;
   <!-- Django Icon -->
-  <img height='50' src="https://img1.gratispng.com/20180824/gwx/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546bc0a4c5.2332101615351368757891.jpg">&nbsp;
+  <img width="26px" height='50' src="https://img1.gratispng.com/20180824/gwx/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546bc0a4c5.2332101615351368757891.jpg">&nbsp;
   
 </p>
 
