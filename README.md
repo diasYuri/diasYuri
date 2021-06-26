@@ -12,11 +12,11 @@
 	Software engineer
 </h4>
 
-### :mortar_board: University graduate
+### :mortar_board: University graduate [ongoing]
 
 - Computer Science - UFJF : Universidade federal de Juiz de fora
 
-### 🛠 Tecnologias
+### 🛠 Technology
 
 **Languages**
 
