@@ -1,36 +1,67 @@
-### Yuri Dias [Backend Development] 👋
+<img align="right" src="https://github.com/diasYuri/diasYuri/blob/main/img/user.png?raw=true" width="300"/>
 
-## I am a Computer Science student
+<h1 align="center">Yuri Dias [Backend Development] 👋</h1>
 
-- 💻 I'm currently working as freelancer
+<p align="center">
+ <a href="https://www.linkedin.com/in/yuri-dias/">
+    <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gelzieny-r-martins-180551106/">
+  </a>
+</p>
+<br>
 
-### Connect with me:
+<h4 align="center"> 
+	Software engineer
+</h4>
+<br>
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/yuri-dias/)
+### :mortar_board: Formação acadêmica
 
-<br />
+- Ciência da computação - UFJF - Universidade federal de Juiz de fora
 
-### Languages and Tools:
+### 🛠 Tecnologias
 
-<img align="left" alt="typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
+**Languages**
 
-<img align="left" alt="Nodejs" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
+<p align="left">
+  <!-- TYPESCRIPT Icon -->
+  <img align="left" alt="typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/>&nbsp;
+  <!-- C# Icon -->
+  <img align="left" alt="typescript" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>&nbsp;
+  <!-- C++ Icon -->
+  <img align="left" alt="typescript" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>&nbsp;
+  <!-- JAVA Icon -->
+  <img align="left" alt="typescript" width="26px" src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png"/>&nbsp;
+  <!-- GO Icon -->
+  <img align="left" alt="typescript" width="26px" src="https://user-images.githubusercontent.com/727262/40395108-6bcc327a-5e1e-11e8-9f76-3917983b8563.png"/>&nbsp;
+  
+</p>
 
-<img align="left" alt="ReactJs" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png" />
+**Frameworks and Tools**
 
-<img align="left" alt="Golang" width="26px" src="https://i.pinimg.com/originals/ca/1f/74/ca1f746d6f232f87fca4e4d94ef6f3ab.png" />
+<p align="left">
+  <!-- Node Icon -->
+  <img src="https://image.pngaaa.com/668/4547668-small.png">&nbsp;
+  <!-- ASP.NET CORE Icon -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png">&nbsp;
+  <!-- Spring Boot Icon -->
+  <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png">&nbsp;
+  <!-- Docker Icon -->
+  <img height='40' src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png">&nbsp;
+  <!-- Django Icon -->
+  <img height='50' src="https://img1.gratispng.com/20180824/gwx/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546bc0a4c5.2332101615351368757891.jpg">&nbsp;
+  
+</p>
 
-<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<br />
-<br />
-
----
-
-<img align="left" width="400px" alt="Yuri Github Stats" src="https://github-readme-stats.vercel.app/api?username=diasYuri&show_icons=true&hide_border=true&count_private=true&hide=prs,contribs&theme=radical" />
-
-<img align="left" alt="Yuri Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diasYuri&layout=compact&theme=radical" />
-
-[linkedin]: linkedin.com/in/yuri-dias
+<p align="center">
+<table align='left'>
+  <row>
+    <td>
+     <!-- Card -->
+      <img align="left" width="400px" alt="Yuri Github Stats" src="https://github-readme-stats.vercel.app/api?username=diasYuri&show_icons=true&hide_border=true&count_private=true&hide=prs,contribs&theme=radical" />
+    </td>
+    <td>
+      <img align="right" alt="Yuri Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diasYuri&layout=compact&theme=radical" />
+    </td>
+  </row>
+</table>
+</p>
