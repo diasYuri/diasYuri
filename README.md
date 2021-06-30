@@ -9,7 +9,6 @@
 </p>
 
 <h4 align="center"> 
-	Software engineer
 </h4>
 
 ### :mortar_board: University graduate [ongoing]
