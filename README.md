@@ -11,10 +11,6 @@
 <h4 align="center"> 
 </h4>
 
-### :mortar_board: University graduate [ongoing]
-
-- Computer Science - UFJF : Universidade federal de Juiz de fora
-
 
 <p align="center">
 <table align='left'>
