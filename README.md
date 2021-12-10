@@ -15,40 +15,6 @@
 
 - Computer Science - UFJF : Universidade federal de Juiz de fora
 
-### 🛠 Technology
-
-**Languages**
-
-<p align="left">
-  <!-- TYPESCRIPT Icon -->
-  <img align="left" alt="typescript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/>&nbsp;
-  <!-- C# Icon -->
-  <img align="left" alt="c-sharp" width="40px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>&nbsp;
-  <!-- C++ Icon -->
-  <img align="left" alt="cplusplus" width="40px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>&nbsp;
-  <!-- JAVA Icon -->
-  <img align="left" alt="java" width="40px" src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png"/>&nbsp;
-  <!-- GO Icon -->
-  <img align="left" alt="golang" width="40px" src="https://user-images.githubusercontent.com/727262/40395108-6bcc327a-5e1e-11e8-9f76-3917983b8563.png"/>&nbsp;
-  
-</p>
-</br>
-
-**Frameworks and Tools**
-
-<p align="left">
-  <!-- Node Icon -->
-  <img width="40px" src="https://nodejs.org/static/images/logo-hexagon-card.png">&nbsp;
-  <!-- ASP.NET CORE Icon -->
-  <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png">&nbsp;
-  <!-- Spring Boot Icon -->
-  <img width="40px" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png">&nbsp;
-  <!-- Docker Icon -->
-  <img width="40px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png">&nbsp;
-  <!-- Git Icon -->
-  <img width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">&nbsp;
-  
-</p>
 
 <p align="center">
 <table align='left'>
